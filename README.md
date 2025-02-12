@@ -1,7 +1,7 @@
-# WebScrapper
+# WebScraper
 
 ## 1: About
-Scrape's websites for links via extracting and parsing HTML data on HTTPS websites using SLL and TCP/IP
+The WebScraper scrapes websites for links via extracting and parsing HTML data on HTTPS websites using SLL and TCP/IP. In doing so, we extract any links that may appear on the site and conduct so in an efficient and timely manner. 
 
 ## 2: Instructions
 
